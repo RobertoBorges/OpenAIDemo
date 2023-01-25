@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenAIDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "what is vs"
+    }
+  }
+}
